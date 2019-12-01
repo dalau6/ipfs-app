@@ -1,2 +1,3 @@
-# ipfs-app
-nodejs-ipfs-app
+# nodejs-ipfs demo app
+
+https://docs.ipfs.io/introduction/overview/
